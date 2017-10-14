@@ -1,0 +1,2 @@
+# mamad
+bot/protect
